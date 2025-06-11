@@ -215,7 +215,7 @@ body {
     bottom: 0vmin;
     width: 1vmin;
     height: 1vmin;
-    background-color: #fffb00;
+    background-color: #ec008c;
     border-radius: 50%;
     filter: blur(0.2vmin);
     animation: light-ans 4s linear infinite backwards; }
